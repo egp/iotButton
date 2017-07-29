@@ -1,2 +1,2 @@
 # iotButton
-AWS IoT butto
+AWS IoT button
